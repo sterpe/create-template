@@ -1,2 +1,4 @@
 www-built
 www-ghpages
+coverage/
+node_modules/
